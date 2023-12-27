@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(240, 101, 212);
+}
+
+#score
+{
+    font-size: 21px;
+    margin-left: 1000px;
+}
+
+#show_sketch{
+
+    font-size: 17px;
+}
